@@ -100,5 +100,5 @@ app.listen(PORT, () => {
 });
 
 app.use('/', (req, res) => {
-    res.send("<h1> Welcome to SUBY");
+    res.send("<h1> Welcome to SUBY Done");
 })
